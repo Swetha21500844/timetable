@@ -127,3 +127,5 @@ Execute the program
 
 ![OUTPUT](./ts1.png)
 ![OUTPUT](./ts2.png)
+# RESULT:
+ Thus the program to write a html webpage page to display your timetable is executed successfully
