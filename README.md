@@ -124,6 +124,6 @@ Execute the program
 ~~~
 
 # OUPUT
-
-![OUTPUT](./ts1.png)
-![OUTPUT](./ts2.png)
+![image](https://user-images.githubusercontent.com/94228215/144224346-03d3b322-a93d-4301-8dcf-88f175913140.png)
+![image](https://user-images.githubusercontent.com/94228215/144224386-56e96efe-8cf7-4222-95b6-f322e18c5823.png)
+![image](https://user-images.githubusercontent.com/94228215/144227440-53b447d1-122b-4868-81eb-894cbda779c9.png)
